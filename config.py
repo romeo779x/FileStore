@@ -8,13 +8,13 @@ OWNER_ID = 7286287241
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
+SHORT_URL = "urlshortx.com" # shortner url 
+SHORT_API = "a5acf69c7f1a4453a61016ce8a2b692c81ddb5c5" 
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8521980674:AAGEo1VscwBvglGmQhCRM7jlqtThAWBPCkU"
+TOKEN = "8521980674:AAEWavB6d3oTMUJeR0XyxDl8m2e6Ed46Mj4"
 API_ID = "34521684"
 API_HASH = "494a4d6833a3d35ac39ffa50e52fd8c9"
 WORKERS = 5
